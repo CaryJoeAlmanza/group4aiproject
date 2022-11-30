@@ -2,7 +2,7 @@
 Stable Diffusion
 
 Before running this, you must have an account on https://huggingface.co/
-From there, go to your settings, then Access Tokens. Paste then when prompted to log in to your
+From there, go to your settings, then Access Tokens. Copy and paste that when prompted to log in to your
 hugging face account.
 
 When using the Colab notebook, make sure you're using a GPU for your runtime type.
