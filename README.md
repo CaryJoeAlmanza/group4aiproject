@@ -1,3 +1,3 @@
-# group4aiproject
+# CS3793 AI Group 4
 
-https://smurfmail115.wixsite.com/aiproj
+Website link: https://smurfmail115.wixsite.com/aiproj
